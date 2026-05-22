@@ -3,7 +3,7 @@
 
 [Pantalla completa](https://editor.p5js.org/maxxxxxxxxxxx/full/KdMOpGTY0)
 
-![image alt](https://github.com/Mppinax/S/blob/11dec6df1e411009e377c6195583cb5189d28f30/descarga.png)
+![image alt](https://github.com/Mppinax/SOLEMNE-2-MAXIMILIANO-PINA/blob/c9b00d698d03218568378ee07ac4d481d12b03a9/descarga%20(1).png)
 
 ## INTRODUCCION AL PROYECTO
 
